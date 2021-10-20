@@ -1,6 +1,10 @@
 # S03 T02: Estructura d'una Matriu
 
 **Target:**
+  *  dimensions, shapes
+  *  Vectorization, Broadcasting
+  *  Index and mask
+  *  Image manipulation with numpy
 
 _We will practice and become familiar with the structure of **Matrices**, **Dimension**, **Shape**, **Vectorization**, and **Broadcasting**._
 
