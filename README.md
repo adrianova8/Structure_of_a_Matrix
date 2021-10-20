@@ -20,18 +20,18 @@ _We work on the concepts of the structure of a matrix, dimension, axes and vecto
  # LEVEL 2
 _We work on the concepts of the structure of an array, **Broadcasting**, **Indexing**, **Mask**_
   
-  # Exercise 1
-  - Show me with examples of different arrays, the fundamental rule of Broadcasting that says, "arrays can be transmitted / broadcast if their dimensions match       or if one of the arrays has a size of 1
-  
-  # Exercise 2
-  - Use **Indexing** to extract the values of a column and a row from the array. And add up their values.
-  
-  # Exercise 3
-  - Mask the above matrix, perform a vectorized Boolean calculation, taking each element and checking if it is evenly divided by four.
-    * This returns a mask array in the same way as the elementary results of the calculation
-  
-  # Exercise 4
-  - Now use this mask to index the original number array. This causes the array to lose its original shape, reducing it to one dimension, but you still get the data you are looking for.
+      # Exercise 1
+      - Show me with examples of different arrays, the fundamental rule of Broadcasting that says, "arrays can be transmitted / broadcast if their dimensions match       or if one of the arrays has a size of 1
+
+      # Exercise 2
+      - Use **Indexing** to extract the values of a column and a row from the array. And add up their values.
+
+      # Exercise 3
+      - Mask the above matrix, perform a vectorized Boolean calculation, taking each element and checking if it is evenly divided by four.
+        * This returns a mask array in the same way as the elementary results of the calculation
+
+      # Exercise 4
+      - Now use this mask to index the original number array. This causes the array to lose its original shape, reducing it to one dimension, but you still get the data you are looking for.
   
  # LEVEL 3
 _Age manipulation with Matplotlib._
@@ -40,10 +40,10 @@ _You will upload any image (jpg, png ..) with Matplotlib. note that RGB images (
 
 _Manipulate these bytes and use Matplotlib again to save the modified image once you're done._
   
-  # Exercise 1
-* How me to see what happens when we remove the Green G or Blue B channel.
+      # Exercise 1
+    * How me to see what happens when we remove the Green G or Blue B channel.
 
-* Show me see what happens when we remove the Green G or Blue B channel. You should use indexing to select the channel you want to undo.
+    * Show me see what happens when we remove the Green G or Blue B channel. You should use indexing to select the channel you want to undo.
 
-* Use the method, mpimg.imsave () of the imported library, to save the modified images and you will need to upload them to your repository on github.
-  
+    * Use the method, mpimg.imsave () of the imported library, to save the modified images and you will need to upload them to your repository on github.
+
