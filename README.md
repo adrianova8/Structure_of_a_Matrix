@@ -6,16 +6,16 @@ _We will practice and become familiar with the structure of **Matrices**, **Dime
 
 # LEVEL 1
 _We work on the concepts of the structure of a matrix, dimension, axes and vectorization that allows us to reduce the use of for loops in arithmetic or mathematical operations_
-  
-  # Exercise 1
-  - Creates a one-dimensional np.array, including at least 8 integers, data type int64. Shows the size and shape of the array.
-  
-  # Exercise 2
-  - From the matrix of exercise 1, calculate the average value of the values entered and subtract the average resulting from each of the values in the matrix
-  
-  # Exercise 3
-  - Create a two-dimensional array with a shape of 5 x 5. Extract the maximum value of the array, and the maximum values of each of its axes
-  
+
+    # Exercise 1
+    - Creates a one-dimensional np.array, including at least 8 integers, data type int64. Shows the size and shape of the array.
+
+    # Exercise 2
+    - From the matrix of exercise 1, calculate the average value of the values entered and subtract the average resulting from each of the values in the matrix
+
+    # Exercise 3
+    - Create a two-dimensional array with a shape of 5 x 5. Extract the maximum value of the array, and the maximum values of each of its axes
+
   
  # LEVEL 2
 _We work on the concepts of the structure of an array, **Broadcasting**, **Indexing**, **Mask**_
