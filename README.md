@@ -45,7 +45,7 @@ _You will upload any image (jpg, png ..) with Matplotlib. note that RGB images (
 _Manipulate these bytes and use Matplotlib again to save the modified image once you're done._
   
       # Exercise 1
-    * How me to see what happens when we remove the Green G or Blue B channel.
+    * ow me to see what happens when we remove the Green G or Blue B channel.
 
     * Show me see what happens when we remove the Green G or Blue B channel. You should use indexing to select the channel you want to undo.
 
